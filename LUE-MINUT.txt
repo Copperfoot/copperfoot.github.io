@@ -1,0 +1,14 @@
+MIKON SALI 1.2
+
+GitHub: lataa KAIKKI tämän kansion tiedostot samaan GitHub-repositorion juurikansioon (ei alikansioon).
+
+index.html
+icon.png
+manifest.webmanifest
+liike-1.jpg – liike-7.jpg
+
+Korvaa vanha index.html. Vanhoja liike-*.svg-tiedostoja ei enää käytetä.
+
+Kuvat on luotu tätä sovellusta varten. Huom: reiden koukistuslaitteiden rakenne vaihtelee, tarkista oman salin laite ja liikerata henkilökunnalta.
+
+Treenihistorian localStorage-avain on sama kuin aiemmissa versioissa.
